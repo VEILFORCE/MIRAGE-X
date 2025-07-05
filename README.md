@@ -20,7 +20,7 @@
 - 🕶️ **Headless Mode** for silent background monitoring
 - 🗂️ **Log cleanup** automation
 - 🔐 **Password-protected alert setup**
-- 🧪 *Telegram Bot alerts* — coming soon
+
 
 ---
 
