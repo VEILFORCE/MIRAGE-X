@@ -1,0 +1,8 @@
+argparse
+numpy
+opencv-python
+pyaudio
+scipy
+sounddevice
+soundfile
+
